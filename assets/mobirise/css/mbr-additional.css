@@ -2292,8 +2292,8 @@ section.lazy-placeholder:after {
   flex-direction: row-reverse;
 }
 .cid-s18SV4DaBR {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/background3.jpg");
 }
 .cid-s18SV4DaBR .testimonials-container {
@@ -2303,9 +2303,6 @@ section.lazy-placeholder:after {
   justify-content: center;
   margin-top: 3rem;
   -webkit-justify-content: center;
-}
-.cid-s18SV4DaBR .testimonials-container .testimonials-item .user {
-  background: #ffffff;
 }
 .cid-s18SV4DaBR .testimonials-container .testimonials-item .user.row {
   margin: 0;
